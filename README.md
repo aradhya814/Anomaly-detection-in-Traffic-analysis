@@ -96,7 +96,7 @@ To detect **traffic anomalies** such as congestion, unusual patterns, or road in
 ## 📄 Report
 
 You can find the detailed project write-up in  
-[`/reports/BDA-mini-project-report.pdf`](./reports/BDA-mini-project-report.pdf)
+
 
 ---
 
